@@ -1,0 +1,8 @@
+dataset_socio_sanitario.csv
+*.csv
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+mappa_*.html
+mappa_*.png
+iframe_figures/
